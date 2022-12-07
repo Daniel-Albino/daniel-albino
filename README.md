@@ -6,8 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Albino&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Albino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
 <div style="display: inline_block;"><br>
   <a href="#">
     <img align="center" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/>
