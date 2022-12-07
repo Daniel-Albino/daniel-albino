@@ -7,6 +7,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Albino"/>
 </div>
   
+<a href="https://github.com/Daniel-Albino/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-Albino&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-Albino&repo=convoychat" />
+</a>
+  
 <div style="display: inline_block;"><br>
   <a href="#">
     <img align="center" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/>
