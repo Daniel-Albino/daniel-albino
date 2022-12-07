@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Albino"/>
 </div>
   
-<a href="https://github.com/Daniel-Albino/github-readme-stats">
+<a href="https://github.com/Daniel-Albino">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-Albino&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
