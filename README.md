@@ -9,21 +9,21 @@
   </a>
 </div>
   
-<div style="display: inline_block;"><br>
-  <a href="#">
-    <img align="center" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/>
-    <img align="center" alt="C++" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"/>
-    <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
-    <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
-    <img align="center" alt="JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="ReactJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    <img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-    <img align="center" alt="Kotlin" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
-    <img align="center" alt="AndroidStudio" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-    <img align="center" alt="Flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-    <img align="center" alt="Matlab" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-    <img align="center" alt="Matlab" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  </a>
+<div align="center">
+  <img alt="C" title="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img alt="C++" title="C++" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
+  <img alt="C#" title="C#" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img alt="Java" title="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="Kotlin" title="Kotlin" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+  <img alt="Ruby" title="Ruby" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
+  <img alt="Rails" title="Rails" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg"/>
+  <img alt="HTML" title="HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+  <img alt="CSS" title="CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+  <img alt="JavaScript" title="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img alt="React" title="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Flutter" title="Flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+  <img alt="Android Studio" title="Android Studio" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+  <img alt="Matlab" title="Matlab" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
 </div>
 
 ##
@@ -35,7 +35,10 @@
   
 </div>
   
-![Snake animation](https://github.com/Daniel-Albino/Daniel-Albino/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniel-Albino/Daniel-Albino/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Daniel-Albino/Daniel-Albino/output/github-contribution-grid-snake.svg"/>
+</picture>
 <!--
 **Daniel-Albino/daniel-albino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
